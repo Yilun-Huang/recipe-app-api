@@ -5,3 +5,4 @@ exclude =
   manage.py,
   settings.py,
   ./core/migrations/0002_tag.py
+  ./core/migrations/0003_ingredient.py
