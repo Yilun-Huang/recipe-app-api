@@ -7,3 +7,4 @@ exclude =
   ./core/migrations/0002_tag.py
   ./core/migrations/0003_ingredient.py
   ./core/migrations/0004_recipe.py
+  ./core/migrations/0005_recipe_image.py
